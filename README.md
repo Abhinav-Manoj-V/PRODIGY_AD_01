@@ -77,9 +77,11 @@ pubspec.yaml            # Project configuration
 ```
 
 👨‍💻 Author
+
 Made by Abhinav Manoj.
 
 Feel free to fork, modify, or contribute!
 
 📄 License
+
 This project is open dource and free to use.
