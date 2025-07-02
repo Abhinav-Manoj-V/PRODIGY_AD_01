@@ -8,6 +8,7 @@ Dark theme interface
 Instant result display
 Smooth, responsive buttons
 Error handling for invalid math expressions
+
 🖼️ Screenshot
 Screenshot_2025-07-02-00-14-14-16_221b1721b70c39bc179d93a611c647b6
 
@@ -43,3 +44,7 @@ pubspec.yaml # Project configuration
 Made by Abhinav Manoj
 
 Feel free to fork, modify, or contribute!
+
+📄 License:
+
+This project is open source and free to use.
