@@ -51,7 +51,7 @@ flutter pub get
 flutter run
 ```
 
-# *Make sure your emulator or Android device is connected.
+#### *Make sure your emulator or Android device is connected.
 
 ### 4. 🛠 Build APK (Optional)
 
