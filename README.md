@@ -1,16 +1,45 @@
-# simple_calculator
+📱 Smart Calculator App
+A clean and simple calculator app built using Flutter.
+This calculator supports basic arithmetic operations with a sleek UI.
 
-A new Flutter project.
+✨ Features
+Basic operations: Addition, Subtraction, Multiplication, Division
+Dark theme interface
+Instant result display
+Smooth, responsive buttons
+Error handling for invalid math expressions
+🖼️ Screenshot
+Screenshot_2025-07-02-00-14-14-16_221b1721b70c39bc179d93a611c647b6
 
-## Getting Started
+📦 Requirements
+Flutter SDK (Latest stable version)
+Dart SDK
+Android Studio or Visual Studio Code
+🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/your-username/smart-calculator.git
+cd smart-calculator
+2. Install dependencies
+flutter pub get
+3. Run the app
+flutter run
+Make sure your emulator or Android device is connected.
+4. 🛠 Build APK (Optional)
+To build a release APK:
 
-This project is a starting point for a Flutter application.
+flutter build apk --release
+5. The .apk file will be located in:
+build/app/outputs/flutter-apk/app-release.apk
+📁 Project Structure:
 
-A few resources to get you started if this is your first Flutter project:
+lib/ └── main.dart # Main calculator app code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+assets/ # (Optional: Add icon/fonts/images here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+pubspec.yaml # Project configuration
+
+👨‍💻 Author:
+
+Made by Abhinav Manoj
+
+Feel free to fork, modify, or contribute!
