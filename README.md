@@ -84,4 +84,4 @@ Feel free to fork, modify, or contribute!
 
 📄 License
 
-This project is open dource and free to use.
+This project is open source and free to use.
